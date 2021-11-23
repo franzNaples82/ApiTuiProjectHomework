@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="TestData\**" />
+    <EmbeddedResource Remove="TestData\**" />
+    <None Remove="TestData\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\f.franzese\.nuget\packages\dotnetcore.npoi\1.2.3\contentFiles\any\netstandard2.0\NOTICE.TXT" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="27.2.0" />
+    <PackageReference Include="DotNetCore.NPOI" Version="1.2.3" />
+    <PackageReference Include="Goblinfactory.Konsole" Version="6.2.2" />
+    <PackageReference Include="IronXL.Excel" Version="2021.11.0" />
+    <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreApiLibrary\CoreApiLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
