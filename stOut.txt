@@ -1,0 +1,301 @@
+
+[Processed City] Amsterdam|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Paris|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Rome|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Milan|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Barcelona|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Le Ray|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Raml Za`Bil|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Greenwich Village|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Fourviere|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Bordeaux|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Venezia|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] San Francisco|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Fairvilla|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Las Vegas|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Ariero|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Maraksh|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Strand|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Chamartin|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Prenzlauer Berg|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Pelc Tyrolka|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Inner City|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Abu Zabye|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Mccormickville|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Abbadia Di Stura|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Madonna Dell'acqua|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Mantoue|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Buda|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Monaco|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Pyrmont|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Puerto Madero|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Washington|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] San Diego|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Los Angeles|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Ortakoi|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Srodmiescie|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Lima|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Cancun|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Verona|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Reykjavik|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Kos|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Neos Kosmos|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Bolueta|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Putung|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Lapa|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Ascot Vale|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Innsbruck|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Penhill|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Pretoria West|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] New Horizons|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Wesbank|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] De Nysna|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Yeoville|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Numbi|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Jacksonstuin|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Westville|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Llandudno|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] An Hoi Thon|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Xom Khu Tuong|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Dai Dien Tay|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Noi Binh|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Faifoh|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Ap Chinh Hoa|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Keicho|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Ha Tou|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Atba Village|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Hoffman|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Mollendal|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Santiago|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Indigo Terrace|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Chesapeake|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Tusayan|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Tucson|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Mullis City|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Ochlockonee|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Saint Augustine|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Al Tahoe|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] West Sedona|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Seattle|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Savannah|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Ballentine Manor|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Santa Fe|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Riomedina|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] North Salem|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Sacramento|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Richmond|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Reno|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Hughesdale|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Marquam Hill|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Pittsburgh|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Waldens Creek|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Phoenix|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Philadelphia|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Page|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Makaha|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Chippewa|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Storyville|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Nashville|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] The Moorings|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Napa|Patchy rain possible-Patchy rain possible
+
+
+[Processed City] Tarpon Bay|Patchy rain possible-Patchy rain possible
+
+
