@@ -2,6 +2,7 @@
 
 Francesco Franzese
 
+STEP 1 : 
 Run ApiTuiProject Console to test application
 
 When the application has finished , it produces a stout text file with the following information: 
@@ -16,16 +17,17 @@ In this case I have extract one record in that file :
 [Processed City] Binnenstad|Patchy rain possible-Partly cloudy
 
 
-Per convenzione ho creato un file excel che contiene le informazioni per data :
+I have created an excel file excel with the following information :
 
 name	wheather date	wheather condition
 Weesperzijde	2021-11-25	Patchy rain possible
 Weesperzijde	2021-11-26	Patchy rain possible
 
-Che può essere d'aiuto per avere le condizioni metereologica per data.
-
-Allegato il file output text per convenzione.
-
-Per comodità l'ho commentato , per decommentarlo bisogna abilitare il metodo di scrittura del file excel alla riga 96 del file Program.cs.
 
 
+To enable a method Writeexcel , please decomment the row nr. 96 in  Program.cs.
+
+
+STEP 2 : 
+
+I attach a flow diagram.
