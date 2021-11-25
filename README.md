@@ -23,3 +23,5 @@ Weesperzijde	2021-11-25	Patchy rain possible
 Weesperzijde	2021-11-26	Patchy rain possible
 
 Che può essere d'aiuto per avere le condizioni per data.
+
+Allegato il file output text per convenzione.
