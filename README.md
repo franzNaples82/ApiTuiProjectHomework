@@ -25,3 +25,7 @@ Weesperzijde	2021-11-26	Patchy rain possible
 Che può essere d'aiuto per avere le condizioni metereologica per data.
 
 Allegato il file output text per convenzione.
+
+Per comodità l'ho commentato , per decommentarlo bisogna abilitare il metodo di scrittura del file excel alla riga 96 del file Program.cs.
+
+
