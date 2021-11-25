@@ -68,28 +68,36 @@ namespace CoreApiLibrary
 
         public List<MapCity> GetListPayloadCity(dynamic objectRequestJson)
         {
-
-            foreach (var item in objectRequestJson)
+            if (objectRequestJson is null)
             {
-                MapCity city = new MapCity();
-                city.Id = item.id;
-                city.Name = item.name;
-                city.Latitude = item.latitude;
-                city.Longitute = item.longitude;
-                city.urlMuseeum = item.url;
-                IRestResponse responseWeather = GetResponseForecastEndPoint(city);
-                objResultWeather = JsonConvert.DeserializeObject(responseWeather.Content);
-                foreach (var itemForecast in objResultWeather.forecast.forecastday)
-                {
-                    MapForecastCity payloadForecast = new MapForecastCity();
-                    payloadForecast.name = objResultWeather.location.name;
-                    payloadForecast.date = itemForecast.date;
-                    payloadForecast.condition =  itemForecast.day.condition.text;
-                    payloadForecastList.Add(payloadForecast);
-                }
-                cityList.Add(city);
+                return null;
             }
 
+            if (objectRequestJson != null)
+            {
+                foreach (var item in objectRequestJson)
+                {
+                    MapCity city = new MapCity();
+                    city.Id = item.id;
+                    city.Name = item.name;
+                    city.Latitude = item.latitude;
+                    city.Longitute = item.longitude;
+                    city.urlMuseeum = item.url;
+                    IRestResponse responseWeather = GetResponseForecastEndPoint(city);
+                    objResultWeather = JsonConvert.DeserializeObject(responseWeather.Content);
+                    foreach (var itemForecast in objResultWeather.forecast.forecastday)
+                    {
+                        MapForecastCity payloadForecast = new MapForecastCity();
+                        payloadForecast.name = objResultWeather.location.name;
+                        payloadForecast.date = itemForecast.date;
+                        payloadForecast.condition = itemForecast.day.condition.text;
+                        payloadForecastList.Add(payloadForecast);
+                    }
+                    cityList.Add(city);
+                }
+
+               
+            }
             return cityList;
         }
 
