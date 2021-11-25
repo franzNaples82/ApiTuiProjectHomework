@@ -14,3 +14,12 @@ The file is included in the following folder :
 
 In this case I have extract one record in that file :
 [Processed City] Binnenstad|Patchy rain possible-Partly cloudy
+
+
+Per convenzione ho creato un file excel che contiene le informazioni per data :
+
+name	wheather date	wheather condition
+Weesperzijde	2021-11-25	Patchy rain possible
+Weesperzijde	2021-11-26	Patchy rain possible
+
+Che può essere d'aiuto per avere le condizioni per data.
